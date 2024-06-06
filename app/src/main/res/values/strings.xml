@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Contacts</string>
+    <string name="login_text">Вход в приложение</string>
+    <string name="login_login">Логин</string>
+    <string name="login_password">Пароль</string>
+    <string name="login_button">Войти</string>
+    <string name="login_empty">Данные не введены</string>
+    <string name="login_error">Не удалось войти</string>
+    <string name="main_new">Новый контакт</string>
+    <string name="main_add">Добавить</string>
+    <string name="main_cancel">Отмена</string>
+    <string name="main_empty">Данные не введены</string>
+    <string name="main_name">Имя</string>
+    <string name="main_avatar">Аватар</string>
+    <string name="main_phone">Номер</string>
+    <string name="main_delete">Удалить</string>
+    <string name="main_share">Поделиться</string>
+    <string name="main_share_title">Поделиться контактом</string>
+    <string name="main_share_format">%s: %s</string>
+    <string name="author_info" tools:ignore="TypographyDashes">Разработала\nстудентка группы РИБО-04-22\nАнтоненко Дарья Алексеевна</string>
+</resources>
